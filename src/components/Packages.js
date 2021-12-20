@@ -1,8 +1,8 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
-import './Plans.css'
+import './Packages.css'
 
-const Plans = () => {
+const Packages = () => {
     return (
         <div className='plans'>
             <div className='card-container'>
@@ -41,4 +41,4 @@ const Plans = () => {
     )
 }
 
-export default Plans
+export default Packages

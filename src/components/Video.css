@@ -48,3 +48,11 @@
         margin-bottom: 1.6rem;
     }
 }
+
+h1 {
+    text-shadow:
+    0.01em 0 black,
+    0 0.01em black,
+    -0.01em 0 black,
+    0 -0.01em black;
+}

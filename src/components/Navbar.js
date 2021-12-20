@@ -10,7 +10,7 @@ function Navbar() {
 
     return (
         <div className='header'>
-            <Link to='/'><h1>Zafar Mahmood</h1></Link>
+            <Link to='/'><h1>Novus 22 Design</h1></Link>
             <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                 <li>
                     <Link to='/'>Home</Link>

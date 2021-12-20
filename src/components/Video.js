@@ -10,14 +10,13 @@ const Video = () => {
                 <source src={danceVideo} type='video/mp4' />
             </video>
             <div className='content'>
-                <h1>XXXXX</h1>
-                <p>XXXXX</p>
+                <h1>Design | Devise | Depict</h1>
+                <p>From A to Z</p>
                 <div>
-                    <Link to='/projects' className='btn'>Temp Button</Link>
-                    <Link to='/contact' className='btn btn-light'>Temp Button</Link>
+                    <Link to='/projects' className='btn'>Our Designs</Link>
+                    <Link to='/about' className='btn btn-light'>Conception</Link>
                 </div>
             </div>
-
         </div>
     )
 }

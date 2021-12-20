@@ -2,7 +2,7 @@ import React from 'react'
 import './Form.css'
 
 const handleSubmit = () => {
-    window.alert('Success!')
+    window.alert('Success! Your message was sent.')
 }
 
 
